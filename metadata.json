@@ -1,0 +1,6 @@
+{
+  "name": "UniFlow",
+  "description": "Premium University Student Workflow, Timetable, Attendance & Academic Performance Manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
